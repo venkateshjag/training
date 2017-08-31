@@ -1,0 +1,40 @@
+Jul 24, 2017 9:27:25 AM org.apache.karaf.main.Main launch
+INFO: Installing and starting initial bundles
+Jul 24, 2017 9:27:25 AM org.apache.karaf.main.Main launch
+INFO: All initial bundles installed and set to start
+Jul 24, 2017 9:27:26 AM org.apache.karaf.main.Main$KarafLockCallback lockAquired
+INFO: Lock acquired. Setting startlevel to 100
+Jul 24, 2017 9:27:26 AM org.sonatype.nexus.karaf.NexusMain launch
+INFO: ...launched Nexus!
+Jul 24, 2017 10:12:18 AM org.apache.karaf.main.Main launch
+INFO: Installing and starting initial bundles
+Jul 24, 2017 10:12:19 AM org.apache.karaf.main.Main launch
+INFO: All initial bundles installed and set to start
+Jul 24, 2017 10:12:20 AM org.apache.karaf.main.Main$KarafLockCallback lockAquired
+INFO: Lock acquired. Setting startlevel to 100
+Jul 24, 2017 10:12:20 AM org.sonatype.nexus.karaf.NexusMain launch
+INFO: ...launched Nexus!
+Jul 24, 2017 8:51:46 PM org.apache.karaf.main.Main launch
+INFO: Installing and starting initial bundles
+Jul 24, 2017 8:51:48 PM org.apache.karaf.main.Main launch
+INFO: All initial bundles installed and set to start
+Jul 24, 2017 8:51:48 PM org.apache.karaf.main.Main$KarafLockCallback lockAquired
+INFO: Lock acquired. Setting startlevel to 100
+Jul 24, 2017 8:51:49 PM org.sonatype.nexus.karaf.NexusMain launch
+INFO: ...launched Nexus!
+Jul 26, 2017 11:40:08 AM org.apache.karaf.main.Main launch
+INFO: Installing and starting initial bundles
+Jul 26, 2017 11:40:09 AM org.apache.karaf.main.Main launch
+INFO: All initial bundles installed and set to start
+Jul 26, 2017 11:40:10 AM org.apache.karaf.main.Main$KarafLockCallback lockAquired
+INFO: Lock acquired. Setting startlevel to 100
+Jul 26, 2017 11:40:10 AM org.sonatype.nexus.karaf.NexusMain launch
+INFO: ...launched Nexus!
+Jul 27, 2017 11:35:51 AM org.apache.karaf.main.Main launch
+INFO: Installing and starting initial bundles
+Jul 27, 2017 11:35:53 AM org.apache.karaf.main.Main launch
+INFO: All initial bundles installed and set to start
+Jul 27, 2017 11:35:54 AM org.apache.karaf.main.Main$KarafLockCallback lockAquired
+INFO: Lock acquired. Setting startlevel to 100
+Jul 27, 2017 11:35:55 AM org.sonatype.nexus.karaf.NexusMain launch
+INFO: ...launched Nexus!

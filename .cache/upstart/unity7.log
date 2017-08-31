@@ -21,3 +21,13 @@ WARN  2017-08-31 16:54:14 unity.shell.compiz unityshell.cpp:3241 Animation plugi
 1504216635345	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
 1504216754246	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
 1504216754247	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1504216994632	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1504216994642	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1504216995040	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1504216995058	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1504216995094	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1504216995119	addons.update-checker	WARN	Update manifest for disableSHA1rollout@mozilla.org did not contain an updates property
+1504216995149	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1504216995169	addons.update-checker	WARN	Update manifest for diagnostics@mozilla.org did not contain an updates property
+1504216995178	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1504216995187	addons.update-checker	WARN	Update manifest for hsts-priming@mozilla.org did not contain an updates property

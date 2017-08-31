@@ -31,3 +31,5 @@ WARN  2017-08-31 16:54:14 unity.shell.compiz unityshell.cpp:3241 Animation plugi
 1504216995169	addons.update-checker	WARN	Update manifest for diagnostics@mozilla.org did not contain an updates property
 1504216995178	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
 1504216995187	addons.update-checker	WARN	Update manifest for hsts-priming@mozilla.org did not contain an updates property
+
+(firefox:2041): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
